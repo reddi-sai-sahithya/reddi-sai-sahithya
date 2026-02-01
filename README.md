@@ -4,7 +4,7 @@ I'm an AI & Machine Learning undergraduate at GRIET, Hyderabad, with a strong in
 I enjoy applying data-driven approaches and machine learning techniques to solve real-world problems.
 I have a strong interest in AI/ML development, software engineering, and problem solving, with an emphasis on efficiency, clarity, and user-focused design.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💻 Technologies I Work With
 
 ● Programming Languages: C, Java, Python, SQL
@@ -27,7 +27,7 @@ Machine Learning Fundamentals
 Teamwork & Collaboration
 Communication Skills
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📬 Reach Me
 
 LinkedIn: https://www.linkedin.com/in/reddi-sai-sahithya
